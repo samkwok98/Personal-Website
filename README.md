@@ -7,9 +7,9 @@ This project is an experiment website to document the learning process of buildi
 ## Demo
 <ol>
     <li> Click on *Works* to see the past projects
-        ![Capture1](static/images/Capture1.png)
+        ![Capture1](static/images/Capture1.PNG)
     <li> Click on *About me* to see the resume
-        ![Capture1](static/images/Capture2.png)
+        ![Capture2](static/images/Capture2.PNG)
 </ol>
 ## Features
 
