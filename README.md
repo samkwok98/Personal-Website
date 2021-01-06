@@ -1,7 +1,9 @@
 <h1 align="center">Personal Website</h1>
 <p align="center">
+    <a href="#demo">Demo</a>
     <a href="#features">Features</a>
     <a href="#installation">Installations</a>
+    <a href="#setup">Setup</a>
 </p>
 This project is an experiment website to document the learning process of building a basic web app through flask. 
 
@@ -35,7 +37,7 @@ source virtual/Scripts/activate
 ```shell script
 pip install flask
 ```
-## Set Up
+## Setup
 Clone this repository into the directory you have just created and run the application, Direct to the directory and run the flask app, you will see the website up at port 5000
 ```shell script
 flask run
