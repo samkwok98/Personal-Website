@@ -4,13 +4,15 @@
     <a href="#installation">Installations</a>
 </p>
 This project is an experiment website to document the learning process of building a basic web app through flask. 
+
 ## Demo
-<ol>
-<li> Click on Works to see the past projects
-![Capture1](https://github.com/samkwok98/Personal-Website/blob/main/static/images/Capture1.PNG)
-<li> Click on About me to see the resume
-![Capture2](https://github.com/samkwok98/Personal-Website/blob/main/static/images/Capture2.PNG)
-</ol>
+
+- Click on Works to see the past projects
+![](static/images/Capture1.PNG)
+
+- Click on About me to see the resume
+![](static/images/Capture2.PNG)
+
 
 ## Features
 
